@@ -49,4 +49,7 @@ We used the **TMDB 5000 Movie Dataset** (available on [Kaggle](https://www.kaggl
 - User selects a movie → system recommends top 5 similar movies  
 - Run locally:  
   ```bash
+
+### Please click the link below to view the project
+    https://data-science-projects-sabin-movie.streamlit.app
   streamlit run app.py
